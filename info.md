@@ -9,8 +9,6 @@ You may view my achievements
 # ML FOUNDATIONS:
 ![image](https://github.com/user-attachments/assets/34161d3a-4796-417e-96c6-36d0474e9722)
 
-![image](https://github.com/user-attachments/assets/20ce940e-1606-4241-b48a-425715bf4ec3)
-
 
 # GETTING STARTED WITH STORAGE FOUNDATION
 

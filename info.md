@@ -1,4 +1,4 @@
-I started AWS Educate foundational courses for improving nd gaining knowledge to make my skills better and to increase my domain of familiarity 
+I started AWS Educate foundational courses for improving and gaining knowledge to make my skills better and to increase my domain of familiarity 
 in topics like cloud stirage, machine learning , generative ai, use of cloud in ML and AI models and all till date :9th June 2025
 
 

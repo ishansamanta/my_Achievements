@@ -15,6 +15,14 @@ https://www.credly.com/users/ishan-samanta
 
 [IBM DS0101EN Certificate _ Cognitive Class.pdf](https://github.com/user-attachments/files/20867196/IBM.DS0101EN.Certificate._.Cognitive.Class.pdf)
 
+# PYTHON FOR DATASCIENCE: by IBM
+![python-for-data-science](https://github.com/user-attachments/assets/91322ef2-6699-4f81-9ccd-c714ae95f35a)
+
+![Screenshot (2)](https://github.com/user-attachments/assets/992921db-1c7b-46fa-bd3e-a4c2e1be6dcd)
+
+[IBM PY0101EN Certificate _ Cognitive Class.pdf](https://github.com/user-attachments/files/21126536/IBM.PY0101EN.Certificate._.Cognitive.Class.pdf)
+
+
 # ML FOUNDATIONS:
 ![aws-educate-machine-learning-foundations](https://github.com/user-attachments/assets/aaa4f916-2d3f-43c6-b812-8abd52ba9cae)
 
